@@ -1,0 +1,2 @@
+rootProject.name='TestHTTP'
+include ':app'
