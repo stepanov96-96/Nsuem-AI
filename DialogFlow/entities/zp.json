@@ -1,0 +1,9 @@
+{
+  "id": "5566db36-122c-4ad7-9994-0b2e97a8f0e7",
+  "name": "zp",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

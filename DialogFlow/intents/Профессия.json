@@ -1,0 +1,43 @@
+{
+  "id": "a561d53f-5093-4ed3-ab4c-b5f928d41930",
+  "name": "Профессия",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "ru",
+          "condition": "",
+          "imageUrl": "https://i.ytimg.com/vi/25KS1KYnww0/maxresdefault.jpg"
+        },
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": [
+            "Всех благ, удачи на новом поприще!",
+            "Ты осилишь любое дело!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "id": "7f720ec3-5609-42f9-8438-8dbbb8e4c10b",
+    "data": [
+      {
+        "text": "Буду ли я президентом?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ca43196-41db-4313-914e-241eff509214",
+    "data": [
+      {
+        "text": "Я могу ",
+        "userDefined": false
+      },
+      {
+        "text": "стать",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " президентом?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f25dc37c-bbab-4bbf-91b8-283e98e6b76f",
+    "data": [
+      {
+        "text": "Я буду президентом?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e48d761-31e7-4a72-9650-3e81f33355bc",
+    "data": [
+      {
+        "text": "Стану ли я президентом?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

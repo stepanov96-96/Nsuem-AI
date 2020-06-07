@@ -1,0 +1,50 @@
+{
+  "id": "9cd74724-dc33-4179-9564-a7ca0b71682c",
+  "name": "Свадьба",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "ru",
+          "condition": "",
+          "imageUrl": "https://rehtingames.ru/june/result.gif"
+        },
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "ru",
+          "condition": "",
+          "imageUrl": "https://i.gifer.com/origin/fa/fa9e27a7534060df383ab54354fcead3_w200.gif"
+        },
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": [
+            "Свадьба это замечательно! Все будет хорошо!",
+            "Такого замечательного человека, как ты ни за что не обойдут вниманием!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

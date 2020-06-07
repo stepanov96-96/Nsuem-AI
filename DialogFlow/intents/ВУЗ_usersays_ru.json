@@ -1,0 +1,130 @@
+[
+  {
+    "id": "a168a741-b87c-4102-be89-31de7f080c04",
+    "data": [
+      {
+        "text": "Куда мне ",
+        "userDefined": false
+      },
+      {
+        "text": "поступать",
+        "alias": "VUZ",
+        "meta": "@VUZ",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eadfc05f-87ad-4c30-9c1f-87d709f3288b",
+    "data": [
+      {
+        "text": "Куда я могу ",
+        "userDefined": false
+      },
+      {
+        "text": "поступить",
+        "alias": "VUZ",
+        "meta": "@VUZ",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f52c6395-f9e2-42da-b7d0-2c97179aa409",
+    "data": [
+      {
+        "text": "Куда мне ",
+        "userDefined": false
+      },
+      {
+        "text": "пойти учится",
+        "alias": "VUZ",
+        "meta": "@VUZ",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e81a3830-def1-4a44-b3f6-9bfa9380dd9a",
+    "data": [
+      {
+        "text": "В какой ",
+        "userDefined": false
+      },
+      {
+        "text": "вуз",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " мне ",
+        "userDefined": false
+      },
+      {
+        "text": "поступать",
+        "alias": "VUZ",
+        "meta": "@VUZ",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4685c948-d9c9-440e-a06a-d233b100416b",
+    "data": [
+      {
+        "text": "В какой ",
+        "userDefined": false
+      },
+      {
+        "text": "колледж",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " мне ",
+        "userDefined": false
+      },
+      {
+        "text": "поступать",
+        "alias": "VUZ",
+        "meta": "@VUZ",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "f178e28f-840a-4163-b0c2-47ad0fc1d078",
+  "parentId": "73e8311b-7609-4df9-9be5-0dea706a2934",
+  "rootParentId": "73e8311b-7609-4df9-9be5-0dea706a2934",
+  "name": "ответ",
+  "auto": true,
+  "contexts": [
+    "hi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "hi.hi-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Программа выпускного: \n20:00 Поздравление учителей\n20:15  Вручение дипломов\n20:30 Речь трудовика (зажигательная и веселая)\n20:45 Поездка по достопримечательностям\n22:00  Викторины и конкурсы\n23:00  Живое общение, танцы, веселье\n24:00  Конкурс на звание \"Мистер\" и \"Мисс\" университет\n01:00 Фейерверк \n01:15  Ночные приколы\n04:00  Встреча рассвета"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

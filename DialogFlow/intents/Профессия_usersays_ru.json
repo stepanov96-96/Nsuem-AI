@@ -1,0 +1,50 @@
+[
+  {
+    "id": "232a8f9f-66cb-4e21-a98c-667b3b5d79f3",
+    "data": [
+      {
+        "text": "Кем я стану?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7b20c97-8427-4bfa-87d5-c52d4b7ac51e",
+    "data": [
+      {
+        "text": "Где я буду работать?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f2d4895-e993-4336-8929-a30463c60033",
+    "data": [
+      {
+        "text": "Кем я стану работать?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb004e05-339e-477d-8b45-846bc787e181",
+    "data": [
+      {
+        "text": "Кем я буду?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

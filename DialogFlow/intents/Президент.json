@@ -1,0 +1,43 @@
+{
+  "id": "895f0c26-0a5d-48e6-9a3e-5e705ba79bf4",
+  "name": "Президент",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "ru",
+          "condition": "",
+          "imageUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMSEhUTExMWFhUXGB8YGRYXFyAdGhogHRgYHRgdHx8aHSggGh8lHh8dIjMhJSkrLi4uHSAzODMtNyotLisBCgoKDg0OGxAQGy0lICUwLS0vLS8tKzUtLi0tLS0tLS0vLy0tLS0tLS4tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIALABHgMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAFBgIDBAcBAP/EAEcQAAIBAgQEBAMFBAYJAwUAAAECEQMhAAQSMQUiQVEGE2FxMoGRI0KhsdEUUsHwB1NicpLhFRYzQ1SCk6LxstLiFyQlY4P/xAAZAQADAQEBAAAAAAAAAAAAAAABAgMEAAX/xAAxEQACAgEDAgQEBQQDAAAAAAABAgARAxIhMQRBEyJRYRQycZEFgaGx8EJSwfEV0eH/2gAMAwEAAhEDEQA/ABM4g5xZSpyMQzVAr/P+WMoM48yGrEg2MhfE0fDQCaceasRT3GPWGDDNGRy5quqLGpjAkgD6m2NXF+GVcswWqsSJFwQe+2Box7OGsVFreWY+AxPK0WqOEUczGAJA/E2xZnMq1JzTqCGHT/xg1DKxj4Y+GJAYoIZNMaKeKUGNNEXB+eHUTpoqZcrEiJvfFejBXNV69amDVZ3QGxaSoO2/fGEUsbMa3OmdkxU643PTxQ6YGRYQJhdcVEY11FxWKUgmNt8Y3E47TPTSTAx46xghwriLZd9aKjGI511D8dj6jGfPZg1XZyACxmFAA+QFhidCDvMuPDizTiJGBU6Vxj7Eox7hCIZ4q4mUtOPVXBLM8S1UhTFGikfeVDrPzLHHVEJgqMSAx9GLEXCzp4MegYs049AwhnSAXFqLiQxMY4Gp1TwUsTFLE1bF9JlnmBI7KwU/Uq35YOoQGAshm8sx5qhBPUyPrcYYM1lcvUUFK9L5tH5nFf8ARrRTLLUOeyzeW8FKj5c1EBUkHmAbTf8ALfGv+kHiHC6q+YiI1c1BqJpOhYBWEFioBFlEztth36cDfedhByZAtgWa3gep4eeV0lHBN2VhAETO5ntbvjz/AFfcTIiD16/TA/K1KIcNTq6aJqPpBcjlDtAkm4AjfBrhOW86shFceWzukLU5pVC4O+0YBxOGAvmBnALD0v8ASV5fgTkSBIG5AMD59MeVuHOvTDbwHhWtG+3XUKj04Y7nSDTEg9rm23tjPxzI1cuaeujOpoDU31C0Hm1II+c4roZe+8UEsLinU4WjjnS/cSD9RfA+t4dP+7qsPRrj6jDPkkqZiWp06saiDpUEA6NXSNII2Ox2wLz2b8oLrLAvMSpAIFiQe89Pxw65si+8UqpMANlMzRMlSw7rzD6b/hjdkeM0zZ0CnuB+Y3xsPGEDQHB7GCB/3AR2xZma1BwTWVSA2jXEjUBMBl3texxqXqUbZ1ieC4No0106dNxK6SPSMD+I5UkEAsh6FbEfwOKf2GjOqhmdB7MZH13/ADxLz6yD7RRUH79Mz+X8QMa8OJH+U37GEuy/OPtAz1K6Iy62LRZgJJ9YjGXJ57NBueq8S26iNhF9Ii5/DBtM9SknWB6Gx/HEK9ZCOR0LE7asc3TkHiMGF7NKs34izSU0p06tSHa4AlRtuDyiSRc9jgSfEucBuah3sKS/+zB7JsAOYhfnA67TjSKiTOtf8Q/XBGMjgRzXcwRwzj2ZqBi7aQp3ZFHSZ+H2xiz/AInzIbkIjSpE0wZmZ6dsEeN1E5ZexBHLcG1wd++NfDXQ01OoCJAvFttp9Mcy3LaTo1XAeW47m6is3IInSCsEkCT9MWv4zzmXZ6KOFRwJGn4pAG/1+mMWZWrrZ9Q5idwTABMHaBH8cauCEnWXcG4MzuY+XpjNpVjVSz9OyrZMxJ4jzJMaUJ6aUJn/ALv5tjdlc7m3NxSUW3Uk3MbBvQ7nG6syWJZfqO4/QY8/baS/e"
+        },
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": [
+            "И такая планка тебе по силам!",
+            "Такая умничка как ты все сможет!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

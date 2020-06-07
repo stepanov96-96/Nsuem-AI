@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18f1dcc5-80c9-4f6b-8713-2d604f9128ee",
+    "data": [
+      {
+        "text": "ок",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c78b7a0c-13a7-4b40-a69a-cd3c2d09f6fe",
+    "data": [
+      {
+        "text": "хорошо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

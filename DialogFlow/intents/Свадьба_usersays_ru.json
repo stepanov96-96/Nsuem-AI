@@ -1,0 +1,71 @@
+[
+  {
+    "id": "e1057f2c-8d25-44c7-804f-81056897f712",
+    "data": [
+      {
+        "text": "Когда у  меня ",
+        "userDefined": false
+      },
+      {
+        "text": "будет свадьба",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21ce1157-5641-4822-9dc6-1fc610a4a019",
+    "data": [
+      {
+        "text": "Я женюсь?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "800c9afd-4c47-4690-b4f1-84b366d43c13",
+    "data": [
+      {
+        "text": "Я выйду замуж?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5bcfa1d-9c71-41da-b2cb-537ea9cafffc",
+    "data": [
+      {
+        "text": "Когда я женюсь?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb3245f0-dbb7-4180-a9b1-20f02cd32993",
+    "data": [
+      {
+        "text": "Когда я выйду замуж?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

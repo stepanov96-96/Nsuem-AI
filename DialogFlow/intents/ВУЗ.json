@@ -1,0 +1,69 @@
+{
+  "id": "204afb0a-4a34-4990-86fa-4f024c7725c9",
+  "name": "ВУЗ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8cbb2f93-b722-4908-b182-5e8d34c71979",
+          "required": false,
+          "dataType": "@VUZ",
+          "name": "VUZ",
+          "value": "$VUZ",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "ru",
+          "condition": "",
+          "title": "Хотите просмотреть список вузов?",
+          "buttons": [
+            {
+              "text": "https://rehtingames.ru/june/result.mp4"
+            }
+          ]
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "ru",
+          "condition": "",
+          "formattedText": "Хотите просмотреть список вузов?"
+        },
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": [
+            "Умничка моя! Перед тобой открыты все дороги!",
+            "Вуз - дело нужное! Решай с умом!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

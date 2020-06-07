@@ -1,0 +1,86 @@
+[
+  {
+    "id": "e570ec43-ae59-4904-9149-203541ee1ca0",
+    "data": [
+      {
+        "text": "Я буду ",
+        "userDefined": false
+      },
+      {
+        "text": "богатым",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27f2dc10-73dc-4488-9a11-e52bccf75e5e",
+    "data": [
+      {
+        "text": "Сколько я буду ",
+        "userDefined": false
+      },
+      {
+        "text": "получать",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e47869a3-b3a5-4091-9a02-382b3b0c3087",
+    "data": [
+      {
+        "text": "Какая у меня будет ",
+        "userDefined": false
+      },
+      {
+        "text": "зарплата",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10e0088f-dfbe-48cb-a1fd-8c7ba6f1cf71",
+    "data": [
+      {
+        "text": "Сколько я буду ",
+        "userDefined": false
+      },
+      {
+        "text": "зарабатывать",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
